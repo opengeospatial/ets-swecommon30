@@ -32,7 +32,7 @@
              <div style="background:#F0F8FF" bgcolor="#F0F8FF">
                <p>The implementation under test (IUT) is checked against the following specifications:</p>
                <ul>
-                 <li><a href="https://docs.ogc.org/is/23-000/23-000.html">OGC SensorML Encoding Standard 3.0</a></li>
+                 <li><a href="https://docs.ogc.org/is/23-000/23-000.html">OGC SWE Common Encoding Standard 3.0</a></li>
                </ul>
              </div>
              <fieldset style="background:#ccffff">
@@ -43,7 +43,7 @@
                  <label for="uri">
                    <h4 style="margin-bottom: 0.5em">Location of IUT (absolute http: or file: URI)</h4>
                  </label>
-                 <input id="uri" name="uri" size="128" type="text" value="https://schemas.opengis.net/sensorML/3.0/json/examples/spec/simple_process.json" />
+                 <input id="uri" name="uri" size="128" type="text" value="https://schemas.opengis.net/sweCommon/3.0/json/examples/uxs/VehicleIdentification_Schema.json" />
                </p>
                <p> If uploading a file, delete the contents of the text field above.</p>
                <p>

@@ -1,4 +1,4 @@
-= Executable Test Suite of version 3.0 of the OGC SensorML Standard
+= Executable Test Suite of version 3.0 of the OGC SWE Common Standard
 
 == Scope
 

@@ -34,7 +34,7 @@ public class CommonFixture {
 	 */
 	public static final String ROOT_PKG_PATH = "/org/opengis/cite/swecommon30/";
 
-	public static final String SCHEMA_PATH = "https://schemas.opengis.net/sensorML/3.0/json/";
+	public static final String SCHEMA_PATH = "https://schemas.opengis.net/sweCommon/3.0/json/";
 
 	/**
 	 * HTTP client component (JAX-RS Client API).

@@ -59,7 +59,7 @@ public class DataRecordTest extends CommonFixture {
             BaseJsonSchemaValidatorTest tester = new BaseJsonSchemaValidatorTest();
 
 
-            JsonSchema schema = tester.getJsonSchemaFromUrl("https://raw.githubusercontent.com/opengeospatial/ets-swecommon30/refs/heads/main/src/main/resources/org/opengis/cite/sensorml30/jsonschema/sweCommon/3.0/json/DataRecord.json");
+            JsonSchema schema = tester.getJsonSchemaFromUrl("https://raw.githubusercontent.com/opengeospatial/ets-swecommon30/refs/heads/main/src/main/resources/org/opengis/cite/swecommon30/jsonschema/sweCommon/3.0/json/DataRecord.json");
             JsonNode rootNode = tester.getNodeFromFile(testSubject);
 
             Set<ValidationMessage> errors = schema.validate(rootNode);

@@ -1,0 +1,5 @@
+{
+  "type": "BogusType",
+  "uniqueId": "urn:example:bogus",
+  "label": "Unknown type – should fail validation"
+}

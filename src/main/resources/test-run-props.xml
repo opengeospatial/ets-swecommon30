@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties version="1.0">
+    <comment>Sample test run arguments</comment>
+    <entry key="iut">https://raw.githubusercontent.com/opengeospatial/ets-swecommon30/refs/heads/main/src/main/resources/org/opengis/cite/swecommon30/jsonschema/sensorML/3.0/json/examples/system_with_components_and_connections.json</entry>
+    <entry key="ics">class-A,class-B</entry>
+</properties>

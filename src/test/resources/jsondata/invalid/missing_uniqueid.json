@@ -1,0 +1,4 @@
+{
+  "type": "PhysicalSystem",
+  "label": "Missing uniqueId – should fail validation"
+}

@@ -1,0 +1,24 @@
+{
+  "type": "SimpleProcess",
+  "uniqueId": "urn:example:processes:linear-interpolation",
+  "label": "Linear Interpolation Process",
+  "description": "A simple process that performs linear interpolation.",
+  "inputs": [
+    {
+      "name": "x",
+      "type": "Quantity",
+      "definition": "http://sensorml.com/ont/swe/property/X",
+      "label": "Input X",
+      "uom": { "code": "1" }
+    }
+  ],
+  "outputs": [
+    {
+      "name": "y",
+      "type": "Quantity",
+      "definition": "http://sensorml.com/ont/swe/property/Y",
+      "label": "Output Y",
+      "uom": { "code": "1" }
+    }
+  ]
+}
